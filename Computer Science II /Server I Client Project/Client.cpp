@@ -58,7 +58,7 @@ int main() {
         return 1;
     }
 
-    // SEND to server (THIS WAS MISSING BEFORE)
+    // SEND to server 
     send(clientSocket, input.c_str(), 2, 0);
 
     // RECEIVE response
