@@ -184,7 +184,7 @@ On real-world servers we not nore exit here we would create another thread to ac
             continue;
         }
 
-// If connection is made we then recive 2 bytes od data IE the State Abbrivations. 
+// If connection is made we then recive 2 bytes of data IE the State Abbrivations. 
 /*  int bytesReceived = recv(clientSocket, buffer, 2, 0); - This reads data from the client. 
         recv         - Abbrivation for "recive" function. 
         ClientSocket - This is the socket created earlier by the accept() function. 
@@ -192,7 +192,7 @@ On real-world servers we not nore exit here we would create another thread to ac
         2            - How many bytes of data we are accepting and reading. 
         0            - Flags used by the TCP programming. 
 
-We then then use ButesRecieved to count the counts and ensure no negitive nubmers are used. 
+We then then use ButesRecieved to count the counts and ensure no negitive numbers are used. 
         buffer[2] = '\0' - Here c++ will cut off the ending byte as C++ requires null terminators to identify when a string ends.  
         Cout             - Lastly a print message to notify the user we have recived the data and what data was sent to us IE the state abriviation. 
        
