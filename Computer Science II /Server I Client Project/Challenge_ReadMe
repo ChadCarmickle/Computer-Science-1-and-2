@@ -1,0 +1,26 @@
+/*
+Computer Science II 
+Textbook Assignment Module 6. 
+
+Challenge: 
+Create a client and a server C++ program such that the server computes and sends back to the client the long name of any U.S. state given the two-letter abbreviation. The protocol is binary, and is as follows:
+
+(1) Client connects and sends the two-letter state abbreviation in binary form.
+
+(2) Server reads the character string and sends back a single character string containing the long name of the state, also in binary form. If an invalid abbreviation is sent, the server should respond with an appropriate error response.
+
+(3) The server closes the connection to the client.
+
+The server will be a single-threaded server that serializes service to its clients.
+
+The server will stay in a loop in which it accepts a connection, reads the character data sent through the connection, and sends back the character response through the same connection. After that, the server closes the connection and goes back to wait for another connection.
+
+The client should ask the user for a state abbreviation, read the user input, open a connection to the server, and send the data. It should then read the reply and print it (the long name of the state) to the screen.
+
+Test your server and client on your own machine by using two different terminals.
+
+You should also, test your client against another student’s server code, and then test your server code against another student’s client.
+
+Submit your source code along with three screen shots of both the server and client demonstrating the application works correctly for valid and invalid abbreviations.
+
+*/
