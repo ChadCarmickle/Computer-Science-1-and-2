@@ -1,0 +1,201 @@
+[
+    {
+        "balance": 25.0,
+        "borrowedBooks": [
+            {
+                "author": "Robert C. Martin",
+                "title": "Clean Code: A Handbook of Agile Software Craftsmanship"
+            }
+        ],
+        "debt": 15.0,
+        "id": 1000702,
+        "name": "Chad C"
+    },
+    {
+        "balance": 12.75,
+        "borrowedBooks": [
+            {
+                "author": "Looney Labs",
+                "title": "Carrot Heist Handbook"
+            }
+        ],
+        "debt": 0.0,
+        "id": 1000703,
+        "name": "Bugs Bunny"
+    },
+    {
+        "balance": 10.7,
+        "borrowedBooks": [
+            {
+                "author": "Mr. Krabs",
+                "title": "The Secret Krabby Patty Formula"
+            }
+        ],
+        "debt": 18.0,
+        "id": 1000704,
+        "name": "SpongeBob SquarePants"
+    },
+    {
+        "balance": 25.0,
+        "borrowedBooks": [
+            {
+                "author": "Velma Dinkley",
+                "title": "Mystery Mansion Cases"
+            }
+        ],
+        "debt": 0.0,
+        "id": 1000705,
+        "name": "Scooby Doo"
+    },
+    {
+        "balance": 7.74,
+        "borrowedBooks": [
+            {
+                "author": "Tom & Jerry Archives",
+                "title": "Guide to Catching Mice"
+            }
+        ],
+        "debt": 0.0,
+        "id": 1000706,
+        "name": "Tom Cat"
+    },
+    {
+        "balance": 14.15,
+        "borrowedBooks": [
+            {
+                "author": "Harry Houdini",
+                "title": "How to Escape from the a cat's clutches"
+            }
+        ],
+        "debt": 0.0,
+        "id": 1000707,
+        "name": "Jerry Mouse"
+    },
+    {
+        "balance": 7.5,
+        "borrowedBooks": [
+            {
+                "author": "Satoshi Tajiri",
+                "title": "The wonders and joys of ketchup"
+            }
+        ],
+        "debt": 0.0,
+        "id": 1000708,
+        "name": "Pikachu"
+    },
+    {
+        "balance": 12.0,
+        "borrowedBooks": [
+            {
+                "author": "Springfield Press",
+                "title": "Donut Economics"
+            }
+        ],
+        "debt": 0.0,
+        "id": 1000709,
+        "name": "Homer Simpson"
+    },
+    {
+        "balance": 0.0,
+        "borrowedBooks": [
+            {
+                "author": "Jason Todd",
+                "title": "Revenge a dish best served cold"
+            }
+        ],
+        "debt": 775.0,
+        "id": 1000710,
+        "name": "Rick Sanchez"
+    },
+    {
+        "balance": 1.5,
+        "borrowedBooks": [
+            {
+                "author": "Nelson Muntz",
+                "title": "Skateboard Chaos Manual"
+            }
+        ],
+        "debt": 4.0,
+        "id": 1000711,
+        "name": "Bart Simpson"
+    },
+    {
+        "balance": 0.0,
+        "borrowedBooks": [
+            {
+                "author": "Shaggy Rogers",
+                "title": "Dealing with monsters"
+            }
+        ],
+        "debt": 0.0,
+        "id": 1000712,
+        "name": "Courage the Cowardly dog"
+    },
+    {
+        "balance": 0.0,
+        "borrowedBooks": [],
+        "debt": 0.0,
+        "id": 1000713,
+        "name": "Kinsey"
+    },
+    {
+        "balance": 0.0,
+        "borrowedBooks": [
+            {
+                "author": "Jhonny Bravo",
+                "title": "Man im pretty"
+            }
+        ],
+        "debt": 0.0,
+        "id": 1000714,
+        "name": "Jhonny Bravo"
+    },
+    {
+        "balance": 0.0,
+        "borrowedBooks": [
+            {
+                "author": "French People",
+                "title": "How to speak french"
+            }
+        ],
+        "debt": 0.0,
+        "id": 1000715,
+        "name": "Samurai Jack"
+    },
+    {
+        "balance": 0.0,
+        "borrowedBooks": [
+            {
+                "author": "G. I. Joe",
+                "title": "Beat the enemy before the fight even starts"
+            }
+        ],
+        "debt": 0.0,
+        "id": 1000717,
+        "name": "Master Cheif"
+    },
+    {
+        "balance": 0.0,
+        "borrowedBooks": [
+            {
+                "author": "Quinn the Eskimo",
+                "title": "The art of running away"
+            }
+        ],
+        "debt": 0.0,
+        "id": 1000718,
+        "name": "Robin"
+    },
+    {
+        "balance": 15.0,
+        "borrowedBooks": [
+            {
+                "author": "Bob Vila",
+                "title": "Lawn care for dummies"
+            }
+        ],
+        "debt": 10.0,
+        "id": 1000720,
+        "name": "Hank Hill"
+    }
+]
